@@ -1,0 +1,4 @@
+"","Features","p.value","muti_cox_dat.HR","muti_cox_dat.lower.95","muti_cox_dat.upper.95"
+"Age","Age","0.003",1.026,1.009,1.043
+"AJCC stage","AJCC stage","<0.001",2.082,1.445,3.001
+"RiskScore","RiskScore","<0.001",2.542,1.889,3.423

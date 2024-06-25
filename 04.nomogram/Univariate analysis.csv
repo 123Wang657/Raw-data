@@ -1,0 +1,6 @@
+"","Features","p.value","sig_cox_dat.HR","sig_cox_dat.lower.95","sig_cox_dat.upper.95"
+"Age","Age","0.01",1.022,1.005,1.038
+"Gender","Gender","0.152",1.296,0.909,1.85
+"AJCC stage","AJCC stage","<0.001",1.927,1.343,2.766
+"Grade","Grade","0.099",1.339,0.946,1.896
+"RiskScore","RiskScore","<0.001",2.47,1.86,3.28
